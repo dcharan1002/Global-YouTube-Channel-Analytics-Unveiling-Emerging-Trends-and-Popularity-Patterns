@@ -1,7 +1,7 @@
 # Global-YouTube-Channel-Analytics-Unveiling-Emerging-Trends-and-Popularity-Patterns
 This project provides an in-depth analysis of global YouTube channels, uncovering key trends and patterns in subscriber growth, video views, and content categories. Utilizing data-driven techniques, it offers valuable insights into the dynamics of YouTube's most popular channels.
 
-#Dataset
+# Dataset
 
 The dataset used for this analysis is the "Global YouTube Statistics" dataset. Below are the columns included in the dataset along with their descriptions:
 
@@ -47,7 +47,7 @@ Latitude -	The latitude coordinate of the country where the channel is based.
 
 Longitude	- The longitude coordinate of the country where the channel is based.
 
-##Analysis and Visualizations
+# Analysis and Visualizations
 
 The project includes the following key analyses and visualizations:
 
@@ -76,6 +76,6 @@ Channels by Creation Year for Top 20 Years:
 
 Line plot analysis of the number of channels created each year for the top 20 years.
 
-#Conclusion
+# Conclusion
 
 This project offers a comprehensive overview of global YouTube channel analytics, revealing emerging trends and patterns that can help understand the dynamics of popular YouTube channels. The insights gained from this analysis can be valuable for content creators, marketers, and researchers interested in the YouTube platform.
